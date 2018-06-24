@@ -57,7 +57,9 @@ public class GridRemoteViewsService extends RemoteViewsService {
 
         @Override
         public int getCount() {
-            return ingredients.size();
+			if (ingredients != null) {
+				return ingredients.size();
+			} else return 0;			
         }
 
         @Override
