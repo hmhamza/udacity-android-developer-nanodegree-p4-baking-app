@@ -89,27 +89,24 @@ Keep the good work. All the best
 
 ## App Screens
 
-### Select a Recipe - Portrait (Phone)
-
 ![Select a Recipe - Portrait (Phone)](https://github.com/hmhamza/udacity-android-developer-nanodegree-p4-baking-app/blob/master/App%20Screens/Select%20a%20Recipe%20-%20Portrait%20(Phone).jpg)
+## Select a Recipe - Portrait (Phone)
 
-### Select Recipe Detail View - Portrait (Phone)
 
 ![Select Recipe Detail View - Portrait (Phone)](https://github.com/hmhamza/udacity-android-developer-nanodegree-p4-baking-app/blob/master/App%20Screens/Select%20Recipe%20Detail%20View%20-%20Portrait%20(Phone).jpg)
-
-### Select Recipe Step Detail View - Portrait (Phone)
+## Select Recipe Detail View - Portrait (Phone)
 
 Select Recipe Step Detail View - Portrait (Phone)
+## Select Recipe Step Detail View - Portrait (Phone)
 
-### Select Recipe Step Detail View - Landscape (Phone)
 
 Select Recipe Step Detail View - Landscape (Phone)
+## Select Recipe Step Detail View - Landscape (Phone)
 
-### Select a Recipe (Tablet)
 
 ![Select a Recipe (Tablet)](https://github.com/hmhamza/udacity-android-developer-nanodegree-p4-baking-app/blob/master/App%20Screens/Select%20a%20Recipe%20(Tablet).jpg)
+## Select a Recipe (Tablet)
 
-### Select and View Recipe Step Detail (Tablet)
 
 ![Select and View Recipe Step Detail (Tablet)](https://github.com/hmhamza/udacity-android-developer-nanodegree-p4-baking-app/blob/master/App%20Screens/Select%20and%20View%20Recipe%20Step%20Detail%20(Tablet).jpg)
-
+## Select and View Recipe Step Detail (Tablet)
